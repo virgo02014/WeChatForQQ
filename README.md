@@ -1,12 +1,12 @@
 ## 资源
-* [打款](https://mp.weixin.qq.com/wxopen/wacontractorpage?action=remit_verify&lang=zh_CN&token=479859393)
+<!-- * [TODO](https://mp.weixin.qq.com/wxopen/wacontractorpage?action=remit_verify&lang=zh_CN&token=479859393) -->
 * [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/?t=20161102)
 * [开发工具下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=20161107)
 
 ## 预览
 
 ## 使用
-+ git clone ''
++ git clone https://github.com/Virgo9/WeChatForQQ.git
 + 在微信开发工具中添加项目
 + 选择本项目
 
