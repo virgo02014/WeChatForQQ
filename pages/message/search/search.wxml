@@ -1,0 +1,6 @@
+<view style="overflow-x: hidden; overflow-y: auto;">
+    <view class="serach">
+      <input class="serach_view_show search_title" bindinput="bindKeyInput" placeholder="搜索"></input>
+    </view>
+    <view class="section__title">你输入的是：{{inputValue}}</view>
+</view>

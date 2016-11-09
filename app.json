@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/message/message",
+    "pages/message/search/search",
+    "pages/message/chat/chat",
+    "pages/contact/contact",
+    "pages/dynamic/dynamic",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundColor":"#fbf9fe",
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#12b7f4",
+    "navigationBarTitleText": "WeChatForQQ",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#9B9DB1",
+    "selectedColor": "#3cc51f",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [{
+      "pagePath": "pages/message/message",
+      "text": "消息",
+      "iconPath": "image/tab_message_normal.png",
+      "selectedIconPath": "image/tab_message_selected.png"
+    },{
+      "pagePath": "pages/contact/contact",
+      "text": "联系人",
+      "iconPath": "image/tab_contact_normal.png",
+      "selectedIconPath": "image/tab_contact_selected.png"
+    },{
+      "pagePath": "pages/dynamic/dynamic",
+      "text": "动态",
+      "iconPath": "image/tab_dynamic_normal.png",
+      "selectedIconPath": "image/tab_dynamic_selected.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
