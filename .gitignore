@@ -1,8 +1,0 @@
-.DS_Store
-.DS_*
-/bower_components/
-/node_modules/
-node_modules
-.project
-.idea/
-.sass-cache/

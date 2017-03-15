@@ -1,3 +1,5 @@
+# 高仿QQ
+
 ## 资源
 <!-- * [TODO](https://mp.weixin.qq.com/wxopen/wacontractorpage?action=remit_verify&lang=zh_CN&token=479859393) -->
 * [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/?t=20161102)
@@ -7,7 +9,7 @@
 
 ## 使用
 + git clone https://github.com/Virgo9/WeChatForQQ.git
-+ 在微信开发工具中添加项目
++ 在微信开发工具中添加项目(无Apple ID也可)
 + 选择本项目
 
 ## 文档简易API
