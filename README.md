@@ -8,7 +8,7 @@
 ## 预览
 
 ## 使用
-+ git clone https://github.com/Virgo9/WeChatForQQ.git
++ git clone https://github.com/virgo02014/WeChatForQQ.git
 + 在微信开发工具中添加项目(无Apple ID也可)
 + 选择本项目
 
